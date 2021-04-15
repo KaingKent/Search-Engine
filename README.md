@@ -2,6 +2,7 @@
 CS1660 Project Option 2
 
 Youtube Link to the demo: https://youtu.be/ySFqcCSYyWA
+
 As of an hour before the due date the video is still "processing HD version"
 If the video is too low quality to view try: 
 
