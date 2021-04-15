@@ -13,8 +13,9 @@ The application is written in Java and as a Java Maven project. The main applica
 To actually authenticate yourself for GCP, you need to download a credientials key. This can be done by following: https://cloud.google.com/docs/authentication/production#auth-cloud-explicit-java
 
 The key's file location should be replaced within the global variables as "credentialKey"
-
--credentialKey = "/usr/src/myapp/key.json";-
+```
+credentialKey = "/usr/src/myapp/key.json";
+```
 Where key.json is the downloaded key
 
 All the other variables under the "//gcp" comment should also be changed to match your projectID, bucket name, and the location of the files.
