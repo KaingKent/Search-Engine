@@ -8,6 +8,8 @@ Everything in the project is implemented including the extra credit with JTables
 # About
 This is the second option course project for CS1660 Intro to Cloud Computing. This application uses Apache Hadoop and Google Cloud Platform.
 
+The main application file is called App.java and is in src/main/java/com/mycompany/app/
+
 The application is written in Java and as a Java Maven project. The main application is built and ran on Docker. It has a Swing GUI so to run it on a Docker image, you need to use Xming which can be done using this: https://cuneyt.aliustaoglu.biz/en/running-gui-applications-in-docker-on-windows-linux-mac-hosts/
 
 To actually authenticate yourself for GCP, you need to download a credientials key. This can be done by following: https://cloud.google.com/docs/authentication/production#auth-cloud-explicit-java
