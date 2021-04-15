@@ -21,7 +21,12 @@ credentialKey = "/usr/src/myapp/key.json";
 Where key.json is the downloaded key
 
 All the other variables under the "//gcp" comment should also be changed to match your projectID, bucket name, and the location of the files.
-For example: replace the "gs://kek165_project" in [dataLocation = "gs://kek165_project/Data-"] with your bucket url instead
+For example: replace the "gs://kek165_project" in 
+```
+[dataLocation = "gs://kek165_project/Data-"]
+```
+
+with your bucket url instead
 
 In the demo video I had it so that you had to change the cluster name in the method. After recording, I changed it so that it is a global variable and only needs to be changed there.
 
