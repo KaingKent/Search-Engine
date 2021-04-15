@@ -2,6 +2,10 @@
 CS1660 Project Option 2
 
 Youtube Link to the demo: https://youtu.be/ySFqcCSYyWA
+As of an hour before the due date the video is still "processing HD version"
+If the video is too low quality to view try: 
+
+https://pitt-my.sharepoint.com/:v:/g/personal/kek165_pitt_edu/EdAOCZD4KYxJurlebDlhTm0BLZ2ptlnTPCZqCBfmb36dFw?e=EjKUtx
 
 Everything in the project is implemented including the extra credit with JTables and runs with any files.
 
